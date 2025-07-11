@@ -1,6 +1,9 @@
 # The exercises for sess-14 - (Earth 3D Globe)
 
-<img width="1024" height="629" alt="sepehr nekoian" src="https://github.com/user-attachments/assets/e3f4ce12-2bf5-4800-8a0d-f6b7a9938e8f" />
+
+
+https://github.com/user-attachments/assets/3fd7e688-6d86-4645-8999-36c32c1c122d
+
 
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
