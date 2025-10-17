@@ -1,6 +1,4 @@
-# 3D
-
-
+## 3D
 
 https://github.com/user-attachments/assets/3fd7e688-6d86-4645-8999-36c32c1c122d
 
@@ -22,7 +20,6 @@ LinkedIn: www.linkedin.com/in/snekoian
 
 Email : Snekoian@gmail.com
 
-Instagram : https://www.instagram.com/nekoian_web?igsh=MWJqcmllanMxeTd4NA==
-
+Instagram : https://www.instagram.com/sepfront_end?igsh=MWJqcmllanMxeTd4NA==
 
 
